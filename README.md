@@ -1,7 +1,7 @@
 # bodybuilding
 Beeb Body Building
 
-JS port based on :
+JS port based on BBC Micro BASIC code :
 
 PROGRAM BODY\
 VERSION 0.03\
