@@ -1,2 +1,10 @@
 # bodybuilding
 Beeb Body Building
+
+JS port based on :
+
+PROGRAM BODY
+VERSION 0.03
+AUTHOR  B.WALKER
+BEEBUG  MARCH 1994
+PROGRAM SUBJECT TO COPYRIGHT
